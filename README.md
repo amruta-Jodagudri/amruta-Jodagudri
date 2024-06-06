@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [RealEstate](https://github.com/amruta-Jodagudri/Real_Estate)
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/amruta-Jodagudri](https://github.com/amruta-Jodagudri)
 
 - 💬 Ask me about **React.js, Full-stack, Figma**
