@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/amruta-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruta-j" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/amruta-j-94676b219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruta-j" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/amrutajodagudri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amrutajodagudri" height="30" width="80" /></a>
 </p>
 
