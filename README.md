@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amrutajodagudri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-TlE_qC7u4LG1eZNK8_Sa1YodzT6rnA7/view?usp=drive_link](https://drive.google.com/file/d/1-TlE_qC7u4LG1eZNK8_Sa1YodzT6rnA7/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dzkP8eDWVmNIvswQ2C3SYmnhtDzannwP/view?usp=drivesdk](https://drive.google.com/file/d/1dzkP8eDWVmNIvswQ2C3SYmnhtDzannwP/view?usp=drivesdk)
 
 - ⚡ Fun fact **I'm the kind of person who enjoy cracking jokes.**
 
