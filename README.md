@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TaskManager](https://github.com/amruta-Jodagudri/Real_Estate)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amruta-Jodagudri](https://github.com/amruta-Jodagudri)
 
