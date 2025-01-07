@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amruta-Jodagudri](https://github.com/amruta-Jodagudri)
 
-- 💬 Ask me about **React.js, Next js, Full-stack, Figma**
+- 💬 Ask me about **React.js, Next js, Figma**
 
 - 📫 How to reach me **amrutajodagudri@gmail.com**
 
