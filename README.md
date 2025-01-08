@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amruta Jodagudri</h1>
 <h3 align="center">A passionate frontend and MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [TaskManager](https://github.com/amruta-Jodagudri/Real_Estate)
+- 🔭 I’m currently working on Angular Projects.
 
 - 🌱 I’m currently learning **Angular**
 
